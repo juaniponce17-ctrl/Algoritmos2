@@ -33,6 +33,8 @@ nodeB.right = nodeF
 nodeF.left = nodeG
 
 
+print("hola commit")
+
 
 root.preOrderTraversal()
 
